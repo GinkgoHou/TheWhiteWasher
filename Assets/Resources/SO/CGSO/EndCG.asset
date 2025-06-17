@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0a9443b533f2f84b9bb213815c9138e, type: 3}
+  m_Name: EndCG
+  m_EditorClassIdentifier: 
+  CGList:
+  - CGSprite: {fileID: 21300000, guid: f1cacf3428ca14c489b897916d697b73, type: 3}
+    TextAsset: {fileID: 4900000, guid: d7ba10d97996a6248bfdd17503365e2b, type: 3}
+    BGMEnum: 6
+  - CGSprite: {fileID: 21300000, guid: 4c6fd10bf3cdb8a46b5775d215ed8ed5, type: 3}
+    TextAsset: {fileID: 4900000, guid: ef3fc5ab376129a4b805b9752819ee2b, type: 3}
+    BGMEnum: 6
+  - CGSprite: {fileID: 21300000, guid: 1b019f51ec3395f4eaace9db8e7f34f9, type: 3}
+    TextAsset: {fileID: 4900000, guid: ef3fc5ab376129a4b805b9752819ee2b, type: 3}
+    BGMEnum: 6
+  - CGSprite: {fileID: 21300000, guid: 939c0d2cd84472748a9d9aac28c45685, type: 3}
+    TextAsset: {fileID: 4900000, guid: ef3fc5ab376129a4b805b9752819ee2b, type: 3}
+    BGMEnum: 6
+  - CGSprite: {fileID: 21300000, guid: 94b2f80e332c4df489ecf6ee1fdf1366, type: 3}
+    TextAsset: {fileID: 4900000, guid: ef3fc5ab376129a4b805b9752819ee2b, type: 3}
+    BGMEnum: 6
+  - CGSprite: {fileID: 21300000, guid: 9ddeb6c4771bfb14aa3fe0340bd73fd5, type: 3}
+    TextAsset: {fileID: 4900000, guid: 3448ed38c8ac7a14d87a6324fdca110e, type: 3}
+    BGMEnum: 6
